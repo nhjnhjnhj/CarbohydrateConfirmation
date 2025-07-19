@@ -1,0 +1,2 @@
+# CarbohydrateConfirmation
+スイーツの栄養成分情報を取得するスクレイピングツール
